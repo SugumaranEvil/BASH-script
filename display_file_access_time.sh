@@ -11,7 +11,7 @@
 echo Enter the path name
 read path_name
 
-echo Enter the day you want know last access of the files or directories within that days 
+echo "Enter a number of day(s) from present day to get accessed details of file or directory"
 read day
 
 #find  - search for files in a directory hierarchy
