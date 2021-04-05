@@ -1,3 +1,11 @@
+#*************************************************************************#
+# Author      : Sugumaran A                                               #
+# File Name   : 5.sh                                                      #
+# Description : Finding the entered angles of triangle is valid or not    #
+# Date        : 02-04-2021                                                #
+#*************************************************************************#
+
+
 #!/bin/bash
 
 #Entering angles of Triangle is valid or not

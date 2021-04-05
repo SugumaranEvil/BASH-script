@@ -1,3 +1,10 @@
+#**********************************************************************#
+# Author      : Sugumaran A                                            #
+# File Name   : 1.sh                                                   #
+# Description : Find the bigger number in given two                    #
+# Date        : 02-04-2021                                             #
+#**********************************************************************#
+
 #!/bin/bash
 
 #Greater than 2 numbers

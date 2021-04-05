@@ -1,3 +1,10 @@
+#**********************************************************************#
+# Author      : Sugumaran A                                            #
+# File Name   : 2.sh                                                   #
+# Description : Find the biggest number in given three                 #
+# Date        : 02-04-2021                                             #
+#**********************************************************************#
+
 #!/bin/bash
 
 #Greater than 3 numbers

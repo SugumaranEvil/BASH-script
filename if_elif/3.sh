@@ -1,3 +1,11 @@
+#**********************************************************************#
+# Author      : Sugumaran A                                            #
+# File Name   : 3.sh                                                   #
+# Description : Finding the entered number is positive or not          #
+# Date        : 02-04-2021                                             #
+#**********************************************************************#
+
+
 #!/bin/bash
 
 #Given number is positive or not

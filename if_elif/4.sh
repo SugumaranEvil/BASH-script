@@ -1,3 +1,11 @@
+#***************************************************************************#
+# Author      : Sugumaran A                                                 #
+# File Name   : 4.sh                                                        #
+# Description : Finding the entered number is divisible by 5and 11 or not   #
+# Date        : 02-04-2021                                                  #
+#***************************************************************************#
+
+
 #!/bin/bash
 
 #Entering number is divisible by 5 and 11 or not
